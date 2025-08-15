@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74466548.css",
+    "main.js": "/static/js/main.aacbbab0.js",
+    "static/js/453.ad7768ec.chunk.js": "/static/js/453.ad7768ec.chunk.js",
+    "static/media/adhd.png": "/static/media/adhd.ba8431e83909d97e22f2.png",
+    "static/media/rms.png": "/static/media/rms.e10a24d2974cd2e297b9.png",
+    "static/media/a11y.png": "/static/media/a11y.81a063dae742aae69b85.png",
+    "static/media/img.png": "/static/media/img.288de267e0376b7a3abb.png",
+    "static/media/hp.jpg": "/static/media/hp.0a3ca5d06528da654cad.jpg",
+    "static/media/chestxrays.png": "/static/media/chestxrays.2885056e639f890d681e.png",
+    "static/media/bias.png": "/static/media/bias.27b936dd88d73fedee28.png",
+    "static/media/Multimodal-RAG.png": "/static/media/Multimodal-RAG.34dad13819529c02f2f0.png",
+    "static/media/AvatarMaker1.svg": "/static/media/AvatarMaker1.9d076fbd336a90893688c11742ebd0e5.svg",
+    "static/media/test1.svg": "/static/media/test1.9dc4f955b20c7552faa2.svg",
+    "index.html": "/index.html",
+    "static/media/logo-1.svg": "/static/media/logo-1.ef4c823a7c2740cfa0c15f5c626d66c8.svg",
+    "main.74466548.css.map": "/static/css/main.74466548.css.map",
+    "main.aacbbab0.js.map": "/static/js/main.aacbbab0.js.map",
+    "453.ad7768ec.chunk.js.map": "/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74466548.css",
+    "static/js/main.aacbbab0.js"
+  ]
+}
