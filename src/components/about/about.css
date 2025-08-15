@@ -136,14 +136,15 @@
         justify-items: center;
         justify-content: center;
         row-gap: 1.875rem;
-        margin-left: 4rem;
+        margin-left: auto;
+        margin-right: auto;
     }
     .about__description {
-        margin-left: 8%;
-        margin-right: 4%;
-        /* margin-bottom: 1rem; */
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0 1rem; /* Add some padding for smaller screens */
         font-size: var(--h3-font-size);
-        text-align: justify;
+        text-align: center; /* Center align for better mobile appearance */
         color: #fff;
     }
     .about__quote1{

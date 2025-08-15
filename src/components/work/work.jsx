@@ -59,20 +59,19 @@ const Work = () => {
         //   );
         // }
         return(
-          <div className="work__card1">
+          <a href={url} target="_blank" rel="noopener noreferrer" className="work__card1">
             <img src={img} alt="" className="work__img"></img>
             <div className='work__card__header'>
               <h1 className='work__card__number'>{number}</h1>
+              {/* Removed redundant <a> tag */}
               <li className="nav__list__1">
-                <a target="_blank" rel="noopener noreferrer" href={url} className="nav__link__1">
-                  <i class="fa-solid fa-link"></i>
-                </a>
+                <i class="fa-solid fa-link"></i>
               </li>
             </div>
             <h2 className='work__card__title'>{title}</h2>
             <h4 className='work__card__desc'>{desc}</h4>
             <p className='work__card__stack'>{stack}</p>
-          </div>
+          </a>
   
         )
       })}

@@ -25,7 +25,7 @@ const About = () => {
 
 
             <div className="spacer__bottom">
-              <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1JzyS7fAp7mfZDhDXB5wfCOv5-SYE9Hit/view?usp=sharing" className="btn">View Resume</a>
+              <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1uXq7pFlA8CbtugYYre11E8wiIp0bB8Zp/view?usp=drive_link" className="btn">View Resume</a>
             </div>
           </div>
           

@@ -14,6 +14,8 @@ const Home1 = () => {
             {/*    Hello World!*/}
             {/*</div>*/}
             <div className="i-subtitle">
+
+              
                 An ML Engineer with a passion for turning data into decisions and building intelligent systems. Whether it’s wrangling Snowflake metadata, decoding patterns with LLMs, or building search systems that actually surface what users need — I’m all in!
 
                 
