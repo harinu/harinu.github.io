@@ -1,17 +1,22 @@
 .resume__container {
-    margin-left: -5rem;
-    grid-template-columns: repeat(2,1fr);
-    column-gap: 1.875rem;
-    margin-top: -2rem;
+    margin-left: 0;
+    grid-template-columns: 1fr;
+    column-gap: 2rem;
+    margin-top: 1rem;
+    max-width: 100%;
+    padding: 1rem 2rem;
+    box-sizing: border-box;
 }
 
 .timeline {
     /* background-color: #fff; */
-    padding: 1.875rem;
+    padding: 2rem 1rem;
     /* border-radius: var(--border-radius); */
     position: relative;
     /* box-shadow: var(--shadow); */
     /* color: #000; */
+    max-width: 100%;
+    margin: 0 auto;
 }
 
 .timeline__item {
@@ -49,6 +54,7 @@
 .timeline__date {
     color: #ffd15c;
     font-size: var(--small-font-size);
+    margin-bottom: 0.5rem;
 }
 
 .timeline__title {
@@ -117,5 +123,9 @@
     }
     .timeline__desc {
         text-align: justify;
+        white-space: pre-line;
+        margin-bottom: 1rem;
+        list-style-type: disc;
+        padding-left: 1.5rem;
     }
 }

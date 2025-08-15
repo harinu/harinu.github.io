@@ -21,6 +21,39 @@
     column-gap: 1.5rem;
     /* margin: 1.5rem 0; */
     
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 2rem;
+}
+
+.contact-info a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.1rem;
+    color: #AAB2CE;
+    text-decoration: underline;
+    background: none;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-info a:hover {
+    color: #6c63ff;
+    background: none;
+    box-shadow: none;
+}
+
+.email-text, .linkedin-text {
+    font-size: 1rem;
+    font-weight: 500;
+    user-select: text;
+}
 }
 
 @media screen and (max-width: 576px) {

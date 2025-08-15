@@ -10,7 +10,7 @@ import Work from './components/work/work';
 import Skills from './components/skills/skills';
 import Timeline from './components/timeline/timeline';
 import Contact from './components/contact/contact';
-
+import Projects from './components/projects/projects';
 
 const App = () => {
   console.log(window.location)

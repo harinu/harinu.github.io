@@ -6,7 +6,7 @@ import CardWidget from './cardWidget';
 const Timeline = () => {
   return (
     <section className="resume container section" id="timeline">
-      <h2 className='section__title'>My Experiences</h2>
+      <h2 className='section__title'>Work Experience</h2>
 
       <div className="resume__container grid">
         <div className="timeline grid">

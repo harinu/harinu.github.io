@@ -17,8 +17,8 @@ const Home = () => {
       <h1 className="home__title">
            Hey there 👋🏻  
 		  </h1>
-      <h1 className="home__name">I am Vignesh Sankaran</h1>
-      {/* <span className="home__education">full stack developer
+      <h1 className="home__name">I'm Hari Priya Kandasamy</h1>
+      {/* <span className="home__education"> Software Engineer
       
       </span> */}
       <h3 className="home__subtitle">
@@ -29,10 +29,10 @@ const Home = () => {
           delay: 75,
         }}
           onInit={(typeWriter)=> {
-            typeWriter.typeString("Product Designer")
+            typeWriter.typeString("Machine Learning Engineer")
             .pauseFor(2000)
             .deleteAll()
-            .typeString("Software Developer")
+            .typeString("Software Engineer")
             .pauseFor(2000)
             .deleteAll()
             .start()

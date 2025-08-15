@@ -14,25 +14,28 @@ class NavBar extends Component {
     <>
     <nav>
       <a className= "nav-name" href='#home1'>
-        Vignesh Sankaran.
+        Hari Priya Kandasamy.
       </a>
       <div>
         <ul id="navbar" className={this.state.clicked ? "#navbar active" : "#navbar"}>
         <li>
-            <a href='#work'>work</a>
+            <a href='#work'>Work</a>
           </li>
           <li>
-            <a href='#about'>about</a>
+            <a href='#about'>About</a>
           </li>
           <li>
-            <a href='#skills'>skills</a>
+            <a href='#skills'>Skills</a>
           </li>
+          {/* <li>
+            <a href='#publications'>Publications</a>
+          </li> */}
           <li>
-            <a href='#timeline'>experience</a>
+            <a href='#timeline'>Experience</a>
           </li>
 
           <li>
-            <a href='#contact'>contact</a>
+            <a href='#contact'>Contact</a>
           </li>
         </ul>
       </div>
